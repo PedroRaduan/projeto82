@@ -1,0 +1,25 @@
+#corpo{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+body{
+    cursor: pointer;
+}
+
+
+#canva{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+    font-size: 20px;
+    border-radius: 10px;
+}
